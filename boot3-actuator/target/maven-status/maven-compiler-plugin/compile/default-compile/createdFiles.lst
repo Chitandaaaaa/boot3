@@ -1,0 +1,6 @@
+com\lixiameng\boot3actuator\controller\MyController.class
+com\lixiameng\boot3actuator\conponent\MyController2HealthIndicator.class
+com\lixiameng\boot3actuator\Boot3ActuatorApplication.class
+com\lixiameng\boot3actuator\conponent\MyControllerHealthIndicator.class
+com\lixiameng\boot3actuator\controller\HelloController.class
+com\lixiameng\boot3actuator\controller\MyController2.class

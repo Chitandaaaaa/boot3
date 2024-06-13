@@ -1,0 +1,4 @@
+org.springframework.boot.SpringApplicationRunListener=com.lixiameng.boot.listener.MyListener
+
+
+org.springframework.context.ApplicationListener=com.lixiameng.boot.listener.MyApplicationListener,com.lixiameng.boot.listener.MyAvailabilityChangeEventListener
