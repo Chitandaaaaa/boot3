@@ -15,6 +15,7 @@
         <option value="$PROJECT_DIR$/boot3-security/pom.xml" />
         <option value="$PROJECT_DIR$/boot3-actuator/pom.xml" />
         <option value="$PROJECT_DIR$/boot3-aot-common/pom.xml" />
+        <option value="$PROJECT_DIR$/boot3-feature/pom.xml" />
       </list>
     </option>
   </component>
